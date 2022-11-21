@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Swift number*/
 global.owner = [
-  ['6288980870067', '️One', true],
-  ['6288980870067', '️Two', true],
-  ['6288980870067', '️Three', true],
-  ['6288980870067', '️Four', true],
-  ['6288980870067', '️Five', true],
-  ['6288980870067', '️Six', true],
-  ['6288980870067', '️Seven', true],
-  ['6288980870067', '️Eight', true],
-  ['6288980870067', '️Nine', true],
-  ['6288980870067', '️Teen', true]
+  ['6281370260986', '️One', true],
+  ['6281370260986', '️Two', true],
+  ['6281370260986', '️Three', true],
+  ['6281370260986', '️Four', true],
+  ['6281370260986', '️Five', true],
+  ['6281370260986', '️Six', true],
+  ['6281370260986', '️Seven', true],
+  ['6281370260986', '️Eight', true],
+  ['6281370260986', '️Nine', true],
+  ['6281370260986', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -91,7 +91,7 @@ global.xckey = '7iyNa0qA'
 /*Number*/
 global.nomorbot = '6283112831554'
 global.nomorown = '6288980870067'
-global.namebot = 'Siesta - Multi Device'
+global . namebot  =  'Mehmet - Multi Perangkat'
 global.nameown = '「 Swift Kawai😍 」'
 
 /*Watermark*/
@@ -439,9 +439,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ Swift Kawai 乂 Siesta-Botz\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
-global.packname = 'Siesta - Multi Device'
-global.author = 'Siesta Md 乂 Swift Kawai'
+global.stickauth = `☂︎ Swift Kawai 乂 Mehmet-Botz\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.packname = 'Mehmet - Multi Device'
+global.author = 'Mehmet Md 乂 Swift Kawai'
 global.multiplier = 10
 
 /*Pesan*/
@@ -454,16 +454,16 @@ global.gcwangsaf = 'https://chat.whatsapp.com/KbgGdT1cV3rD5JzJDZryis'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/SiestaMd'
-global.dana = '08386366437'
-global.pulsa = '083112831554'
+global.dana = ''
+global.pulsa = ''
 global.trakteer = ''
 global.paypal = ''
 global.gopay = ''
-global.pdana = '083866366437'
+global.pdana = ''
 global.povo = ''
 global.pgopay = ''
-global.ppulsa = '088980870067'
-global.ppulsa2 = '083112831554'
+global.ppulsa = ''
+global.ppulsa2 = ''
 global.psaweria = 'https://saweria.com/SiestaMd'
 
 /*Emoji*/
